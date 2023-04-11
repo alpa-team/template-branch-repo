@@ -4,6 +4,7 @@
 
 # except files that has to be in alpa branch repo
 !.git/
+!.github/
 !.gitignore
 !.pre-commit-config.yaml
 !README.md
